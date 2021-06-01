@@ -1,0 +1,446 @@
+{
+    "contas-contrato": [
+        {
+            "codigoContaContrato": "0000138701", 
+            "codigoContrato": "0000014548",
+            "consumos": [
+                {
+                    "mes": "01",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400005787921",
+                    "vencimento": "2020-02-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-01-22",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "2.87",
+                            "quantidade": "1.30848000000000"
+                        },
+                        {
+                            "codItem": "ACCMNT",
+                            "descItem": "Devolução Prestação de Serviço",
+                            "valor": "-19.14",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "02",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006115523",
+                    "vencimento": "2020-04-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-03-17",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "2.58",
+                            "quantidade": "1.17624000000000"
+                        },
+                        {
+                            "codItem": "ACCMNT",
+                            "descItem": "Devolução Prestação de Serviço",
+                            "valor": "-16.27",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "04",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006471502",
+                    "vencimento": "2020-07-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-06-10",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "9.01",
+                            "quantidade": "1.71912000000000"
+                        },
+                        {
+                            "codItem": "ACCMNT",
+                            "descItem": "Devolução Prestação de Serviço",
+                            "valor": "-13.69",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "07",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006965075",
+                    "vencimento": "2020-10-15",
+                    "status": "V",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-09-21",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "8.88",
+                            "quantidade": "1.66344000000000"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "0",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "ACCMNT",
+                            "descItem": "Devolução Prestação de Serviço",
+                            "valor": "-4.68",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "10",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400007354573",
+                    "vencimento": "2021-01-15",
+                    "status": "V",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-12-10",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "2.32",
+                            "quantidade": "0.49416000000000"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "3.28",
+                            "quantidade": "0.64032000000000"
+                        },
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "2.79",
+                            "quantidade": "0.54520000000000"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Multas",
+                            "valor": "0.04",
+                            "quantidade": "0"
+                        }
+                    ]
+                }
+            ]       
+        },
+        {
+            "codigoContaContrato": "000002318079", 
+            "codigoContrato": "0000229507",
+            "consumos": [
+                {
+                    "mes": "03",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006141503",
+                    "vencimento": "2020-04-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-03-24",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "38.86",
+                            "quantidade": "6.86024000000000"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Juros de Mora",
+                            "valor": "0.04",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Multas",
+                            "valor": "0.44",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "04",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006262789",
+                    "vencimento": "2020-05-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-04-21",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "44.55",
+                            "quantidade": "7.86480000000000"
+                        }
+                    ]
+                },
+                {
+                    "mes": "05",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006410167",
+                    "vencimento": "2020-06-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-05-21",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "43.12",
+                            "quantidade": "7.61192000000000"
+                        }
+                    ]
+                },
+                {
+                    "mes": "06",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006513728",
+                    "vencimento": "2020-07-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-06-17",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "45.29",
+                            "quantidade": "7.86480000000000"
+                        }
+                    ]
+                },
+                {
+                    "mes": "07",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006695264",
+                    "vencimento": "2020-08-17",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-07-24",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "26.48",
+                            "quantidade": "4.52632000000000"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Juros de Mora",
+                            "valor": "0.01",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Multas",
+                            "valor": "0.43",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Juros de Mora",
+                            "valor": "0.03",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Multas",
+                            "valor": "0.45",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "08",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006786115",
+                    "vencimento": "2020-09-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-08-18",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "33.89",
+                            "quantidade": "5.79304000000000"
+                        }
+                    ]
+                },
+                {
+                    "mes": "09",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400006900381",
+                    "vencimento": "2020-10-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-09-15",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "52.73",
+                            "quantidade": "9.01320000000000"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Juros de Mora",
+                            "valor": "0.02",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Multas",
+                            "valor": "0.26",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "10",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400007062719",
+                    "vencimento": "2020-11-16",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-10-14",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "51.99",
+                            "quantidade": "8.88560000000000"
+                        }
+                    ]
+                },
+                {
+                    "mes": "11",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400007198119",
+                    "vencimento": "2020-12-15",
+                    "status": "Q",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-11-12",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "55.14",
+                            "quantidade": "8.70928000000000"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Juros de Mora",
+                            "valor": "0.07",
+                            "quantidade": "0"
+                        },
+                        {
+                            "codItem": "STATIT",
+                            "descItem": "Multas",
+                            "valor": "0.53",
+                            "quantidade": "0"
+                        }
+                    ]
+                },
+                {
+                    "mes": "12",
+                    "ano": "2020",
+                    "numDocumentoImpressao": "400007367936",
+                    "vencimento": "2021-01-15",
+                    "status": "V",
+                    "ordemVenda": "",
+                    "remessa": "",
+                    "fatura": "",
+                    "dataImpressao": "2020-12-11",
+                    "itens": [
+                        {
+                            "codItem": "CGAS",
+                            "descItem": "Consumo de Gás",
+                            "valor": "46.14",
+                            "quantidade": "7.28712000000000"
+                        }
+                    ]
+                }
+            ]
+        }
+
+    ]
+}
